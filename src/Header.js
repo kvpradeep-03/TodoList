@@ -8,4 +8,4 @@ const Header = () => {
   )
 }
 
-export default Header //  exports the file contents to another file (Header --> App.js). 
+export default Header // git exports the file contents to another file (Header --> App.js). 
